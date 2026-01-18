@@ -76,9 +76,9 @@ Silakan cek repositori saya—kalau ada ide kolaborasi atau masukan, saya sangat
 ---
 
 ## 📫 Kontak (isi yang kamu punya)
-- Email: yourmail@example.com
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-- Portfolio: https://your-portfolio.com
+- Email: kiapndy@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kurniawanalhamdanipandayuputra
+- Portfolio: https://jasaalgojo.rf.gd/
 
 ---
 
