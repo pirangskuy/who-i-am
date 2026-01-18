@@ -1,6 +1,6 @@
 <!-- =========================
   PROFILE README - KURNIAWAN
-  Ganti: pirangskuy
+  Username: pirangskuy
 ========================= -->
 
 # Halo 👋, saya **Kurniawan Alhamdani Pandayu Putra**
@@ -24,16 +24,16 @@ Silakan cek repositori saya—kalau ada ide kolaborasi atau masukan, saya sangat
 
 ## 🧰 Bahasa & Teknologi yang Saya Gunakan
 **Bahasa Pemrograman:**
-- PHP, JavaScript, HTML, CSS
-- SQL (MySQL)
+- PHP, JavaScript, HTML, CSS  
+- SQL (MySQL)  
 - Java (Android)
 
 **Framework / Library:**
-- Laravel (opsional kalau kamu pakai), Bootstrap, React (opsional)
+- Laravel, Bootstrap, React  
 - Leaflet / Mapbox (peta)
 
 **Tools:**
-- Git & GitHub, Laragon/XAMPP, VS Code, Figma (opsional)
+- Git & GitHub, Laragon/XAMPP, VS Code, Figma
 
 ---
 
@@ -47,24 +47,22 @@ Silakan cek repositori saya—kalau ada ide kolaborasi atau masukan, saya sangat
 ---
 
 ## 📊 Statistik GitHub Saya
-> Ganti `pirangskuy` dengan username GitHub kamu
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pirangskuy&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirangskuy&layout=compact&hide_border=true)
 
 ---
 
 ## 📈 Grafik Aktivitas Proyek
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pirangskuy&hide_border=true)
 
 ---
 
-## 🔥 Streak (opsional)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true)
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=pirangskuy&hide_border=true)
 
 ---
 
-## 🏷️ Badge Skill (opsional, biar keren)
+## 🏷️ Badge Skill
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -75,8 +73,8 @@ Silakan cek repositori saya—kalau ada ide kolaborasi atau masukan, saya sangat
 
 ---
 
-## 📫 Kontak (isi yang kamu punya)
-- Email: kiapndy@gmail.com
+## 📫 Kontak
+- Email: **kiapndy@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/kurniawanalhamdanipandayuputra
 - Portfolio: https://jasaalgojo.rf.gd/
 
