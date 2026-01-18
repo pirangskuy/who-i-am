@@ -47,7 +47,7 @@ Silakan cek repositori saya—kalau ada ide kolaborasi atau masukan, saya sangat
 ---
 
 ## 📊 Statistik GitHub Saya
-> Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub kamu
+> Ganti `pirangskuy` dengan username GitHub kamu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
